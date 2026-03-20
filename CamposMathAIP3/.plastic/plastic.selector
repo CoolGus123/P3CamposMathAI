@@ -1,0 +1,4 @@
+repository "CamposMathAIP3 2026-03-20_10-28-40/CamposMathAIP3@20067303312111@cloud"
+  path "/"
+    br "/main"
+    co "/main"
